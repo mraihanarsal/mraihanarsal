@@ -1,28 +1,19 @@
-- 👋 Hi, I’m @mraihanarsal
-- 👀 I’m interested in Web Development, Mobile Development, Backend Engineering, and Frontend UI/UX   
-- 🌱 I’m currently learning Advanced System Architecture, Kubernetes, Cloud Infrastructure, and Performance Optimization
-- 💞️ I’m looking to collaborate on Web Apps, Mobile Apps, Open Source Projects, and Backend Systems Development
-- 📫 How to reach me: You can contact me via GitHub 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I started my career in IT Support before transitioning into software development, which helps me build systems that are both technical and user-friendly
+⚡ Hello, I'm Raihan Arsal a Fullstack Developer
+| Mobile Specialist | Cloud Enthusiast
+I am a results-driven Web & Mobile Developer with a unique background that started in IT Support. This foundation gives me a holistic perspective on software
+I don’t just write code, I build systems that are robust, maintainable, and designed with the end-user in mind.
 
----
+📈 Current Focus
+I am currently deep-diving into Advanced System Architecture and Cloud Infrastructure. My goal is to bridge the gap between high-performance code and scalable deployment, ensuring applications run seamlessly under any load.
 
-## 🚀 About Me
-Hello Everyone, I'm Raihan 👋  
-I'm an Associate Programmer and Gen Z Web & Mobile Developer enthusiast who loves building efficient, scalable, and user-focused applications.
+🌱 Learning: Kubernetes, Performance Optimization, RTOS, & Microservices.
 
-💻 Tech Stack:
-- Backend: Laravel, CodeIgniter 4, REST API Development
-- Mobile: Flutter
-- Database: SQL, Firebase NoSQL
-- Tools & DevOps: Docker, GitHub
-- Familiar With: Vue.js, Java, C++, Kubernetes, Postman, Navicat, SQL Server Management Studio
+💞️ Open to: Collaborating on Open Source, scalable Backend Systems, and innovative Mobile Apps.
+🏛️ Beyond the CodeMy journey isn't just technical. Through my involvement in faculty student organizations, I’ve honed the leadership and communication skills necessary to lead teams and bridge the gap between technical requirements and project goals.Fun Fact: My transition from IT Support to Software Engineering means I’ve seen both sides of the screen—I build for the future but fix with the pragmatism of someone who’s been in the trenches.
 
-🤝 I also gained leadership and teamwork experience through faculty student organizations.
-
-I enjoy learning new technologies, solving real-world problems, and contributing to meaningful software projects.
-
----
-
-⭐ Feel free to explore my repositories and collaborate with me!
+📫 Let's Connect
+I'm always open to discussing new projects, technical challenges, or the latest in cloud tech.
+GitHub: @mraihanarsal
+Pronouns: He / Him
+Location: Based in Indonesia
+⭐ Feel free to explore my repositories! Whether it's a star or a pull request, I value every interaction.
